@@ -9,4 +9,4 @@
 
 ### Навыки
 - **Языки:** JavaScript
-- **Инструменты:** Git, Figma, VS Code
+- **Инструменты:** Git, Figma, VS Code, Touchdesigner, Adobe 
